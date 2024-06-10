@@ -54,14 +54,14 @@ h2 {
   text-align: center;
 }
 
-.pfooter{
-    text-align: center;
-    font-size: 20px;
+.pfooter {
+  text-align: center;
+  font-size: 20px;
 }
 
 .center-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
 }
