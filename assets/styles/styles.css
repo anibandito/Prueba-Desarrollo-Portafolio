@@ -65,3 +65,13 @@ h2 {
   align-items: center;
   text-align: center;
 }
+
+.row{
+  padding-left: 200px;
+}
+
+.card-text{
+  font-weight: 700;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: rgba(41, 43, 23, 0.812);
+}
